@@ -1,0 +1,8 @@
+# yum install -y git
+# # now we need to commit and push git file where we created it.
+# git init
+# git status
+# # if we have created directory or file before installing git. we need to add it on git.
+# git add . [we can use only specific dir/file name for add. like: git add 1.txt 2.txt ]
+# git commit -m "frist commit for 1.txt & 2.txt "
+# git remote add origin "https://github.com/mondolshishir/devops-practice.git"
